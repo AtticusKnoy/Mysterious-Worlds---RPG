@@ -1,4 +1,4 @@
-/// @description Main Functions
+/// @description main functions
 
 walksp = 3;
 animsp = 1;
