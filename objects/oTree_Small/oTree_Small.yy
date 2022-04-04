@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sShip_right",
-    "path": "sprites/sShip_right/sShip_right.yy",
+    "name": "sTree_Small",
+    "path": "sprites/sTree_Small/sTree_Small.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,10 +20,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"oPlanet_Retta","path":"objects/oPlanet_Retta/oPlanet_Retta.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -31,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oShip",
+  "name": "oTree_Small",
   "tags": [],
   "resourceType": "GMObject",
 }
