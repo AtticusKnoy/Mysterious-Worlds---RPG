@@ -6,7 +6,7 @@ if(keyboard_check(ord("W")))
 {
 	y -= walksp;
 	image_speed = walksp / 3;
-	sprite_index = sShip_right;
+	sprite_index = sShip_up
 }
 if(keyboard_check(ord("A")))
 {
@@ -18,7 +18,7 @@ if(keyboard_check(ord("S")))
 {
 	y += walksp;
 	image_speed = walksp / 3;
-	sprite_index = sShip_right;
+	sprite_index = sShip_down;
 }
 if(keyboard_check(ord("D")))
 {
