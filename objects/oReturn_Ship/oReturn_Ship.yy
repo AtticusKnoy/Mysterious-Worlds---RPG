@@ -3,7 +3,7 @@
     "name": "sReturn_Ship",
     "path": "sprites/sReturn_Ship/sReturn_Ship.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
