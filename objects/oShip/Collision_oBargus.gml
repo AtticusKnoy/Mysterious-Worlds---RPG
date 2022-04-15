@@ -2,3 +2,5 @@
 
 speed = 0;
 room = rBargus;
+
+image_index = sStats;
