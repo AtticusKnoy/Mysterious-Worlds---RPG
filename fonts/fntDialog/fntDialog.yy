@@ -132,7 +132,7 @@
     "path": "folders/Sprites/Fonts.yy",
   },
   "resourceVersion": "1.0",
-  "name": "fntGame_Text",
+  "name": "fntDialog",
   "tags": [],
   "resourceType": "GMFont",
 }

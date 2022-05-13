@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Planets",
+    "path": "folders/Objects/Planets.yy",
   },
   "resourceVersion": "1.0",
   "name": "oBargus",

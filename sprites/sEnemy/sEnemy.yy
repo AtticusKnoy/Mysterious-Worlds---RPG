@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "NPCs",
+    "path": "folders/Sprites/NPCs.yy",
   },
   "resourceVersion": "1.0",
   "name": "sEnemy",
