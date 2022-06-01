@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sWall_Horizontal","path":"sprites/sWall_Horizontal/sWall_Horizontal.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sWall_Horizontal",
     "tags": [],
     "resourceType": "GMSequence",

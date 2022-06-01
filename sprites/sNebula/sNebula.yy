@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sNebula","path":"sprites/sNebula/sNebula.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sNebula",
     "tags": [],
     "resourceType": "GMSequence",

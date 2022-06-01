@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sInventory","path":"sprites/sInventory/sInventory.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sInventory",
     "tags": [],
     "resourceType": "GMSequence",

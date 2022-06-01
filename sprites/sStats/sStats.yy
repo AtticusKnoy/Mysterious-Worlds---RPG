@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sStats","path":"sprites/sStats/sStats.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sStats",
     "tags": [],
     "resourceType": "GMSequence",

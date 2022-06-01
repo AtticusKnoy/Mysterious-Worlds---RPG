@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPlanet_Bargus","path":"sprites/sPlanet_Bargus/sPlanet_Bargus.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPlanet_Bargus",
     "tags": [],
     "resourceType": "GMSequence",

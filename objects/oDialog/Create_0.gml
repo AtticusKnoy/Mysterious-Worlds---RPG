@@ -2,6 +2,7 @@
 
 text[0] = "Retta - 320004-A85";
 text[1] = "Population: 1,200";
+text[2] = "";
 
 text_current = 0;
 text_last = 1;

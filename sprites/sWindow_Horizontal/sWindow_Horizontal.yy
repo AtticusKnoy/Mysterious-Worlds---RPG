@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sWindow_Horizontal","path":"sprites/sWindow_Horizontal/sWindow_Horizontal.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sWindow_Horizontal",
     "tags": [],
     "resourceType": "GMSequence",

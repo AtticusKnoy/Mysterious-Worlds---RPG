@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sBlue_Key_Card","path":"sprites/sBlue_Key_Card/sBlue_Key_Card.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sBlue_Key_Card",
     "tags": [],
     "resourceType": "GMSequence",

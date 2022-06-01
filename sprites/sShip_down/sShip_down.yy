@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sShip_down","path":"sprites/sShip_down/sShip_down.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sShip_down",
     "tags": [],
     "resourceType": "GMSequence",

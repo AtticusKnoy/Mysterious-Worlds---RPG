@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPlanet_Retta","path":"sprites/sPlanet_Retta/sPlanet_Retta.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPlanet_Retta",
     "tags": [],
     "resourceType": "GMSequence",

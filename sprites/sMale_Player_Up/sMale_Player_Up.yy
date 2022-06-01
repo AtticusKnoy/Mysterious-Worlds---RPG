@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sMale_Player_Up","path":"sprites/sMale_Player_Up/sMale_Player_Up.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sMale_Player_Up",
     "tags": [],
     "resourceType": "GMSequence",

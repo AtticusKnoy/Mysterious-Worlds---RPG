@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPlanet_Masa","path":"sprites/sPlanet_Masa/sPlanet_Masa.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPlanet_Masa",
     "tags": [],
     "resourceType": "GMSequence",

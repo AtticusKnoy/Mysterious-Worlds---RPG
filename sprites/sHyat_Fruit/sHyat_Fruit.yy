@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sHyat_Fruit","path":"sprites/sHyat_Fruit/sHyat_Fruit.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sHyat_Fruit",
     "tags": [],
     "resourceType": "GMSequence",

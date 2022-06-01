@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sDoogon","path":"sprites/sDoogon/sDoogon.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sDoogon",
     "tags": [],
     "resourceType": "GMSequence",

@@ -142,7 +142,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sShip_up","path":"sprites/sShip_up/sShip_up.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sShip_up",
     "tags": [],
     "resourceType": "GMSequence",

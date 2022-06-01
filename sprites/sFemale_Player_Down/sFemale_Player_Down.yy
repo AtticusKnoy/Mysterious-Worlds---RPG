@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sFemale_Player_Down","path":"sprites/sFemale_Player_Down/sFemale_Player_Down.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sFemale_Player_Down",
     "tags": [],
     "resourceType": "GMSequence",

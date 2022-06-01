@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sReturn_Ship","path":"sprites/sReturn_Ship/sReturn_Ship.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sReturn_Ship",
     "tags": [],
     "resourceType": "GMSequence",

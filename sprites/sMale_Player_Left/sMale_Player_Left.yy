@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sMale_Player_Left","path":"sprites/sMale_Player_Left/sMale_Player_Left.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sMale_Player_Left",
     "tags": [],
     "resourceType": "GMSequence",
