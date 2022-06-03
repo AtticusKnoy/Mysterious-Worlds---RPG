@@ -33,6 +33,7 @@
     {"id":{"name":"oDialog","path":"objects/oDialog/oDialog.yy",},"order":0,},
     {"id":{"name":"sHyat_Fruit","path":"sprites/sHyat_Fruit/sHyat_Fruit.yy",},"order":2,},
     {"id":{"name":"oInventory","path":"objects/oInventory/oInventory.yy",},"order":2,},
+    {"id":{"name":"enemy_path","path":"paths/enemy_path/enemy_path.yy",},"order":0,},
     {"id":{"name":"sSword","path":"sprites/sSword/sSword.yy",},"order":4,},
     {"id":{"name":"oShip","path":"objects/oShip/oShip.yy",},"order":1,},
     {"id":{"name":"sNebula","path":"sprites/sNebula/sNebula.yy",},"order":12,},
